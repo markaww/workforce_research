@@ -1,5 +1,5 @@
 # Workforce research
-A tool to quickly obtain insights on a population, such as job, nationality, jobs and poll results
+A tool to quickly obtain insights on a population, such as job, nationality and poll results
 
 The population is composed of a poll study data base with 9.5k people from the EU who were interviewed about their position of the implementation of a universal basic income. 
 The table contains three sources:
