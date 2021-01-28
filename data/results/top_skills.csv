@@ -1,5 +1,5 @@
 ,dem_education_level,top_10_skills
-0,high,"['computers and electronics', 'geography', 'clerical', 'information ordering', 'english language', 'engineering and technology', 'economics and accounting', 'mathematical reasoning', 'critical thinking', 'administration and management']"
-1,low,"['computers and electronics', 'clerical', 'geography', 'information ordering', 'english language', 'mathematical reasoning', 'economics and accounting', 'engineering and technology', 'critical thinking', 'administration and management']"
-2,medium,"['computers and electronics', 'geography', 'information ordering', 'clerical', 'mathematical reasoning', 'engineering and technology', 'critical thinking', 'economics and accounting', 'english language', 'physics']"
-3,no,"['computers and electronics', 'geography', 'english language', 'information ordering', 'clerical', 'mathematical reasoning', 'economics and accounting', 'critical thinking', 'engineering and technology', 'production and processing']"
+0,high,"['computers and electronics', 'Unemployed', 'geography', 'clerical', 'information ordering', 'english language', 'engineering and technology', 'economics and accounting', 'mathematical reasoning', 'critical thinking']"
+1,low,"['Unemployed', 'computers and electronics', 'clerical', 'geography', 'information ordering', 'english language', 'mathematical reasoning', 'economics and accounting', 'engineering and technology', 'critical thinking']"
+2,medium,"['Unemployed', 'computers and electronics', 'geography', 'information ordering', 'clerical', 'mathematical reasoning', 'engineering and technology', 'critical thinking', 'economics and accounting', 'english language']"
+3,no,"['Unemployed', 'computers and electronics', 'geography', 'english language', 'information ordering', 'clerical', 'mathematical reasoning', 'economics and accounting', 'critical thinking', 'engineering and technology']"

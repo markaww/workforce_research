@@ -1,187 +1,189 @@
 Country,Job Title,Gender,Quantity,Percentage
-Spain,database management system specialist dbms specialist,male,9,0.18%
-Spain,data processing systems analyst,male,8,0.16%
-Spain,database coordinator,female,8,0.16%
-Spain,automatic data processing planner adp planner,male,8,0.16%
-Spain,database manager,male,7,0.14%
-Spain,database administration manager,male,7,0.14%
-Spain,data systems manager,male,7,0.14%
-Spain,data coordinator,male,7,0.14%
-Spain,database development and administration project manager,male,7,0.14%
-Spain,data communications software consultant,female,6,0.12%
-Spain,data security administrator,female,6,0.12%
-Spain,database architect,male,6,0.12%
-Spain,automatic data processing customer liaison adp customer liaison,male,6,0.12%
-Spain,data management associate,male,6,0.12%
-Spain,data security analyst,female,6,0.12%
-Spain,geographic information systems database administrator gis database administrator,male,6,0.12%
-Spain,database development and administration project manager,female,6,0.12%
-Spain,geographic information systems data manager gis data manager,male,6,0.12%
-Spain,database engineer,female,6,0.12%
-Spain,database software technician,male,6,0.12%
-Spain,electronic data interchange system developer edi system developer,male,6,0.12%
-Spain,automatic data processing customer liaison adp customer liaison,female,5,0.1%
-Spain,automatic data processing planner,female,5,0.1%
-Spain,data processing manager,male,5,0.1%
-Spain,data scientist,male,5,0.1%
-Spain,data security administrator,male,5,0.1%
-Spain,data modeling specialist,female,5,0.1%
-Spain,sql database administrator,male,5,0.1%
-Spain,director of data operations,female,5,0.1%
-Spain,database security expert,male,5,0.1%
-Spain,geographic information systems data administrator gis data administrator,male,5,0.1%
-Spain,head of information systems and data processing,male,5,0.1%
-Spain,database engineer,male,5,0.1%
-Spain,data warehouse architect,female,5,0.1%
-Spain,database designer,male,5,0.1%
-Spain,computer or data processing systems consultant,male,5,0.1%
-Spain,data architect,male,5,0.1%
-Spain,geographic information systems data manager gis data manager,female,4,0.08%
-Spain,geographic information systems data administrator gis data administrator,female,4,0.08%
-Spain,engineer system electronic data processing engineer system edp,female,4,0.08%
-Spain,computer or data processing systems consultant,female,4,0.08%
-Spain,databases software consultant,male,4,0.08%
-Spain,oracle database administrator oracle dba,male,4,0.08%
-Spain,data processing systems project planner,female,4,0.08%
-Spain,data processing systems project planner,male,4,0.08%
-Spain,data security analyst,male,4,0.08%
-Spain,data warehouse architect,male,4,0.08%
-Spain,data modeling specialist,male,4,0.08%
-Spain,data systems manager,female,4,0.08%
-Spain,data base design analyst,female,4,0.08%
-Spain,database security administrator,female,4,0.08%
-Spain,data communications software consultant,male,4,0.08%
-Spain,database security administrator,male,4,0.08%
-Spain,automatic data processing systems security specialist adp systems security,male,4,0.08%
-Spain,data management associate,female,4,0.08%
-Spain,database design analyst,female,4,0.08%
-Spain,automatic data processing planner,male,4,0.08%
-Spain,database coordinator,male,4,0.08%
-Spain,database management system specialist dbms specialist,female,4,0.08%
-Spain,database administration associate,male,4,0.08%
-Spain,data processing auditor,male,3,0.06%
-Spain,data management information technology specialist,male,3,0.06%
-Spain,data miner,female,3,0.06%
-Spain,data processing clerk,male,3,0.06%
-Spain,data processing consultant,female,3,0.06%
-Spain,data processing consultant,male,3,0.06%
-Spain,data processing equipment repairer,male,3,0.06%
-Spain,data processing manager,female,3,0.06%
-Spain,data sciences director,female,3,0.06%
-Spain,database administration associate,female,3,0.06%
-Spain,sql database administrator,female,3,0.06%
-Spain,automatic data processing planner adp planner,female,3,0.06%
-Spain,data coordinator,female,3,0.06%
-Spain,automatic data processing systems security specialist adp systems security,female,3,0.06%
-Spain,data architect,female,3,0.06%
-Spain,data communications analyst,male,3,0.06%
-Spain,head of information systems and data processing,female,3,0.06%
-Spain,oracle database administrator oracle dba,female,3,0.06%
-Spain,geographic information systems data specialist gis data specialist,male,3,0.06%
-Spain,database marketing analyst,female,3,0.06%
-Spain,database marketing analyst,male,3,0.06%
-Spain,database security expert,female,3,0.06%
-Spain,database specialist,male,3,0.06%
-Spain,database tester,male,3,0.06%
-Spain,electronic data processing auditor edp auditor,male,3,0.06%
-Spain,databases computer consultant,male,3,0.06%
-Spain,databases software consultant,female,3,0.06%
-Spain,director of data operations,male,3,0.06%
-Spain,electronic data interchange system developer edi system developer,female,3,0.06%
-Spain,electronic data processing auditor edp auditor,female,3,0.06%
-Spain,weight in motion field data collection technician,female,2,0.04%
-Spain,health data analyst,male,2,0.04%
-Spain,internet database specialist,female,2,0.04%
-Spain,micro computer data processor,female,2,0.04%
-Spain,geographic information systems database administrator gis database administrator,female,2,0.04%
-Spain,geographic information systems data specialist gis data specialist,female,2,0.04%
-Spain,data sciences director,male,2,0.04%
-Spain,data scientist,female,2,0.04%
-Spain,data technician,male,2,0.04%
-Spain,database administration project manager,female,2,0.04%
-Spain,database architect,female,2,0.04%
-Spain,database consultant,male,2,0.04%
-Spain,flight test data acquisition technician,male,2,0.04%
-Spain,database manager,female,2,0.04%
-Spain,database software technician,female,2,0.04%
-Spain,database specialist,female,2,0.04%
-Spain,databases computer consultant,female,2,0.04%
-Spain,scientific database curator,male,2,0.04%
-Spain,weight in motion field data collection technician,male,2,0.04%
-Spain,data recovery planner,male,2,0.04%
-Spain,data processing systems analyst,female,2,0.04%
-Spain,data processing auxiliary equipment operator,male,2,0.04%
-Spain,data miner,male,2,0.04%
-Spain,data compiler,male,2,0.04%
-Spain,data entry machine operator,female,2,0.04%
-Spain,data management information technology specialist,female,2,0.04%
-Spain,data communications analyst,female,2,0.04%
-Spain,data operations director,female,2,0.04%
-Spain,data operations director,male,2,0.04%
-Spain,data compiler,female,2,0.04%
-Spain,clinical data management manager cdm manager,male,2,0.04%
-Spain,data base design analyst,male,2,0.04%
-Spain,clinical data manager,male,2,0.04%
-Spain,data administrator,male,2,0.04%
-Spain,data typist,female,1,0.02%
-Spain,data processing auditor,female,1,0.02%
-Spain,data processing equipment repairer,female,1,0.02%
-Spain,database administration manager,female,1,0.02%
-Spain,data processing mechanic,male,1,0.02%
-Spain,data processing supervisor,female,1,0.02%
-Spain,data processing supervisor,male,1,0.02%
-Spain,data reviewer,female,1,0.02%
-Spain,data officer,male,1,0.02%
-Spain,data conversion operator,female,1,0.02%
-Spain,data entry specialist,female,1,0.02%
-Spain,data entry representative,female,1,0.02%
-Spain,data entry operator,male,1,0.02%
-Spain,data entry machine operator,male,1,0.02%
-Spain,data entry associate,female,1,0.02%
-Spain,data control clerk supervisor,male,1,0.02%
-Spain,data communications technician,male,1,0.02%
-Spain,data communications technician,female,1,0.02%
-Spain,data collector,female,1,0.02%
-Spain,data entry supervisor,male,1,0.02%
-Spain,data examination clerk,male,1,0.02%
-Spain,data officer,female,1,0.02%
-Spain,data modeler,male,1,0.02%
-Spain,data input clerk,male,1,0.02%
-Spain,data management manager,male,1,0.02%
-Spain,data keyer,male,1,0.02%
-Spain,database consultant,female,1,0.02%
-Spain,lidar data analyst,male,1,0.02%
-Spain,lidar data analyst,female,1,0.02%
-Spain,internet database specialist,male,1,0.02%
-Spain,maintenance data analyst,male,1,0.02%
-Spain,medical data analyst,male,1,0.02%
-Spain,marketing database analyst,male,1,0.02%
-Spain,database developer,female,1,0.02%
-Spain,database modeler,female,1,0.02%
-Spain,database development project manager,male,1,0.02%
-Spain,database development project manager,female,1,0.02%
-Spain,database modeler,male,1,0.02%
-Spain,flight test data acquisition technician,female,1,0.02%
-Spain,flight data technician,male,1,0.02%
-Spain,field traffic data technician,male,1,0.02%
-Spain,engineer system electronic data processing engineer system edp,male,1,0.02%
-Spain,database technician,male,1,0.02%
-Spain,data analyst,female,1,0.02%
-Spain,clinical data associate,male,1,0.02%
-Spain,clinical data associate,female,1,0.02%
-Spain,clinical data abstractor,male,1,0.02%
-Spain,business database analyst,male,1,0.02%
-Spain,business database analyst,female,1,0.02%
-Spain,analytical data miner,male,1,0.02%
-Spain,clinical data management manager cdm manager,female,1,0.02%
-Spain,data analysis assistant,male,1,0.02%
-Spain,crime data specialist,male,1,0.02%
-Spain,clinical data specialist,female,1,0.02%
-Spain,scada technician supervisory control and data acquisition technician,female,1,0.02%
-Spain,voice and data technician,male,1,0.02%
-Spain,voice and data technician,female,1,0.02%
-Spain,survey data technician,female,1,0.02%
-Spain,scada operator supervisory control and data acquisition operator,male,1,0.02%
-Spain,micro computer data processor,male,1,0.02%
-Spain,reference data expert,male,1,0.02%
-Spain,reference data expert,female,1,0.02%
+Spain,Unemployed,female,274,2.84%
+Spain,Unemployed,male,199,2.06%
+Spain,database management system specialist dbms specialist,male,9,0.09%
+Spain,database coordinator,female,8,0.08%
+Spain,automatic data processing planner adp planner,male,8,0.08%
+Spain,data processing systems analyst,male,8,0.08%
+Spain,database manager,male,7,0.07%
+Spain,data coordinator,male,7,0.07%
+Spain,database development and administration project manager,male,7,0.07%
+Spain,data systems manager,male,7,0.07%
+Spain,database administration manager,male,7,0.07%
+Spain,automatic data processing customer liaison adp customer liaison,male,6,0.06%
+Spain,data communications software consultant,female,6,0.06%
+Spain,electronic data interchange system developer edi system developer,male,6,0.06%
+Spain,data security analyst,female,6,0.06%
+Spain,database development and administration project manager,female,6,0.06%
+Spain,database engineer,female,6,0.06%
+Spain,database software technician,male,6,0.06%
+Spain,geographic information systems data manager gis data manager,male,6,0.06%
+Spain,database architect,male,6,0.06%
+Spain,data management associate,male,6,0.06%
+Spain,geographic information systems database administrator gis database administrator,male,6,0.06%
+Spain,data security administrator,female,6,0.06%
+Spain,database designer,male,5,0.05%
+Spain,database engineer,male,5,0.05%
+Spain,data scientist,male,5,0.05%
+Spain,data security administrator,male,5,0.05%
+Spain,data warehouse architect,female,5,0.05%
+Spain,director of data operations,female,5,0.05%
+Spain,geographic information systems data administrator gis data administrator,male,5,0.05%
+Spain,head of information systems and data processing,male,5,0.05%
+Spain,database security expert,male,5,0.05%
+Spain,sql database administrator,male,5,0.05%
+Spain,data architect,male,5,0.05%
+Spain,data processing manager,male,5,0.05%
+Spain,automatic data processing customer liaison adp customer liaison,female,5,0.05%
+Spain,computer or data processing systems consultant,male,5,0.05%
+Spain,automatic data processing planner,female,5,0.05%
+Spain,data modeling specialist,female,5,0.05%
+Spain,automatic data processing systems security specialist adp systems security,male,4,0.04%
+Spain,automatic data processing planner,male,4,0.04%
+Spain,data processing systems project planner,male,4,0.04%
+Spain,database security administrator,male,4,0.04%
+Spain,database security administrator,female,4,0.04%
+Spain,data modeling specialist,male,4,0.04%
+Spain,geographic information systems data administrator gis data administrator,female,4,0.04%
+Spain,geographic information systems data manager gis data manager,female,4,0.04%
+Spain,data base design analyst,female,4,0.04%
+Spain,data communications software consultant,male,4,0.04%
+Spain,data management associate,female,4,0.04%
+Spain,databases software consultant,male,4,0.04%
+Spain,computer or data processing systems consultant,female,4,0.04%
+Spain,oracle database administrator oracle dba,male,4,0.04%
+Spain,engineer system electronic data processing engineer system edp,female,4,0.04%
+Spain,database coordinator,male,4,0.04%
+Spain,database design analyst,female,4,0.04%
+Spain,data warehouse architect,male,4,0.04%
+Spain,data systems manager,female,4,0.04%
+Spain,database administration associate,male,4,0.04%
+Spain,data security analyst,male,4,0.04%
+Spain,data processing systems project planner,female,4,0.04%
+Spain,database management system specialist dbms specialist,female,4,0.04%
+Spain,oracle database administrator oracle dba,female,3,0.03%
+Spain,sql database administrator,female,3,0.03%
+Spain,database administration associate,female,3,0.03%
+Spain,data miner,female,3,0.03%
+Spain,data architect,female,3,0.03%
+Spain,automatic data processing planner adp planner,female,3,0.03%
+Spain,automatic data processing systems security specialist adp systems security,female,3,0.03%
+Spain,data processing clerk,male,3,0.03%
+Spain,data processing consultant,female,3,0.03%
+Spain,data processing consultant,male,3,0.03%
+Spain,data processing equipment repairer,male,3,0.03%
+Spain,data processing manager,female,3,0.03%
+Spain,data sciences director,female,3,0.03%
+Spain,data processing auditor,male,3,0.03%
+Spain,director of data operations,male,3,0.03%
+Spain,electronic data interchange system developer edi system developer,female,3,0.03%
+Spain,electronic data processing auditor edp auditor,female,3,0.03%
+Spain,data coordinator,female,3,0.03%
+Spain,electronic data processing auditor edp auditor,male,3,0.03%
+Spain,database marketing analyst,female,3,0.03%
+Spain,geographic information systems data specialist gis data specialist,male,3,0.03%
+Spain,head of information systems and data processing,female,3,0.03%
+Spain,databases software consultant,female,3,0.03%
+Spain,data management information technology specialist,male,3,0.03%
+Spain,database marketing analyst,male,3,0.03%
+Spain,database security expert,female,3,0.03%
+Spain,data communications analyst,male,3,0.03%
+Spain,databases computer consultant,male,3,0.03%
+Spain,database specialist,male,3,0.03%
+Spain,database tester,male,3,0.03%
+Spain,data entry machine operator,female,2,0.02%
+Spain,data compiler,male,2,0.02%
+Spain,database software technician,female,2,0.02%
+Spain,data compiler,female,2,0.02%
+Spain,data communications analyst,female,2,0.02%
+Spain,clinical data management manager cdm manager,male,2,0.02%
+Spain,clinical data manager,male,2,0.02%
+Spain,data administrator,male,2,0.02%
+Spain,data base design analyst,male,2,0.02%
+Spain,data management information technology specialist,female,2,0.02%
+Spain,data miner,male,2,0.02%
+Spain,data scientist,female,2,0.02%
+Spain,database administration project manager,female,2,0.02%
+Spain,database architect,female,2,0.02%
+Spain,database consultant,male,2,0.02%
+Spain,database manager,female,2,0.02%
+Spain,data technician,male,2,0.02%
+Spain,data sciences director,male,2,0.02%
+Spain,data operations director,female,2,0.02%
+Spain,data operations director,male,2,0.02%
+Spain,data processing auxiliary equipment operator,male,2,0.02%
+Spain,data processing systems analyst,female,2,0.02%
+Spain,data recovery planner,male,2,0.02%
+Spain,weight in motion field data collection technician,male,2,0.02%
+Spain,weight in motion field data collection technician,female,2,0.02%
+Spain,micro computer data processor,female,2,0.02%
+Spain,flight test data acquisition technician,male,2,0.02%
+Spain,geographic information systems data specialist gis data specialist,female,2,0.02%
+Spain,internet database specialist,female,2,0.02%
+Spain,health data analyst,male,2,0.02%
+Spain,geographic information systems database administrator gis database administrator,female,2,0.02%
+Spain,database specialist,female,2,0.02%
+Spain,databases computer consultant,female,2,0.02%
+Spain,scientific database curator,male,2,0.02%
+Spain,database technician,male,1,0.01%
+Spain,field traffic data technician,male,1,0.01%
+Spain,flight data technician,male,1,0.01%
+Spain,flight test data acquisition technician,female,1,0.01%
+Spain,internet database specialist,male,1,0.01%
+Spain,lidar data analyst,female,1,0.01%
+Spain,lidar data analyst,male,1,0.01%
+Spain,maintenance data analyst,male,1,0.01%
+Spain,marketing database analyst,male,1,0.01%
+Spain,medical data analyst,male,1,0.01%
+Spain,micro computer data processor,male,1,0.01%
+Spain,reference data expert,female,1,0.01%
+Spain,reference data expert,male,1,0.01%
+Spain,scada operator supervisory control and data acquisition operator,male,1,0.01%
+Spain,scada technician supervisory control and data acquisition technician,female,1,0.01%
+Spain,survey data technician,female,1,0.01%
+Spain,voice and data technician,female,1,0.01%
+Spain,voice and data technician,male,1,0.01%
+Spain,engineer system electronic data processing engineer system edp,male,1,0.01%
+Spain,database modeler,male,1,0.01%
+Spain,database modeler,female,1,0.01%
+Spain,data entry specialist,female,1,0.01%
+Spain,data entry supervisor,male,1,0.01%
+Spain,data examination clerk,male,1,0.01%
+Spain,data input clerk,male,1,0.01%
+Spain,data keyer,male,1,0.01%
+Spain,data management manager,male,1,0.01%
+Spain,data modeler,male,1,0.01%
+Spain,data officer,female,1,0.01%
+Spain,data officer,male,1,0.01%
+Spain,data processing auditor,female,1,0.01%
+Spain,data processing equipment repairer,female,1,0.01%
+Spain,data processing mechanic,male,1,0.01%
+Spain,data processing supervisor,female,1,0.01%
+Spain,data processing supervisor,male,1,0.01%
+Spain,data reviewer,female,1,0.01%
+Spain,data typist,female,1,0.01%
+Spain,database administration manager,female,1,0.01%
+Spain,database consultant,female,1,0.01%
+Spain,database developer,female,1,0.01%
+Spain,database development project manager,female,1,0.01%
+Spain,database development project manager,male,1,0.01%
+Spain,data entry representative,female,1,0.01%
+Spain,data entry operator,male,1,0.01%
+Spain,data entry machine operator,male,1,0.01%
+Spain,data entry associate,female,1,0.01%
+Spain,analytical data miner,male,1,0.01%
+Spain,business database analyst,female,1,0.01%
+Spain,business database analyst,male,1,0.01%
+Spain,clinical data abstractor,male,1,0.01%
+Spain,clinical data associate,female,1,0.01%
+Spain,clinical data associate,male,1,0.01%
+Spain,clinical data management manager cdm manager,female,1,0.01%
+Spain,clinical data specialist,female,1,0.01%
+Spain,crime data specialist,male,1,0.01%
+Spain,data analysis assistant,male,1,0.01%
+Spain,data analyst,female,1,0.01%
+Spain,data collector,female,1,0.01%
+Spain,data communications technician,female,1,0.01%
+Spain,data communications technician,male,1,0.01%
+Spain,data control clerk supervisor,male,1,0.01%
+Spain,data conversion operator,female,1,0.01%

@@ -110,7 +110,7 @@ def acquire():
     # From wrangling, include the lines to lead to a single table output
     # Merge poll file with api job list
 
-    poll_api_merge = poll_db.merge(api_skills, left_on='normalized_job_code', right_on='job_uuid')
+    poll_api_merge = poll_db.merge(api_skills, left_on='normalized_job_code', right_on='job_uuid', how='outer')
 
     # Map countries from countries_dict
 
